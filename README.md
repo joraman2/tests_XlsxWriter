@@ -3,7 +3,6 @@
 Crear el el virtual environment 
 
     python3.12 -m venv .venv
-    source .venv/bin/activate
 
 Activar:
 
