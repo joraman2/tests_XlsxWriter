@@ -1,4 +1,4 @@
-### Pre-requisits
+### Pre-requisits
 
 Crear el el virtual environment 
 
