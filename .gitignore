@@ -2,4 +2,4 @@
 .venv
 *.log
 *.xlsx
-
+.DS_Store
