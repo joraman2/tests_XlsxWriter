@@ -1,5 +1,7 @@
+#!/usr/bin/env python3.12
+
 from glob import glob
-from rich import print
+#from rich import print
 import csv
 
 from excelpy import generate_excel
